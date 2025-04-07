@@ -19,7 +19,6 @@ Profissional com  5+ anos de experiência em análise de dados e desenvolvimento
 - [TrocaDemandaFlaskApp](https://github.com/leandrofavila/TrocaDemandaFlaskApp)  - Aplicação web para gestão de demandas
 
 ### 📊 GitHub Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leandrofavila&show_icons=true&theme=radical) 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrofavila&layout=compact&theme=radical) 
 
 ### 📫 Contato
