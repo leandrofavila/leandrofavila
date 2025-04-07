@@ -2,7 +2,7 @@
 
 ## 💼 Analista de Dados & Desenvolvedor Python
 
-Profissional com background em Física e 6+ anos de experiência em análise de dados e desenvolvimento de soluções para otimização de processos industriais.
+Profissional com  5+ anos de experiência em análise de dados e desenvolvimento de soluções para otimização de processos industriais aluno do 5º sem de Física.
 
 ### 🛠️ Tecnologias & Ferramentas
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
