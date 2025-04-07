@@ -11,7 +11,6 @@ Profissional com background em Física e 6+ anos de experiência em análise de 
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white) 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 
 ### 🚀 Projetos Destacados
 - [Compara_Exp_Aproveitamento](https://github.com/leandrofavila/Compara_Exp_Aproveitamento)  - Sistema de comparação entre requisitos e ordens MRP
